@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "nom": "Carla",
+        "cognoms": "Cuellar Franco"
+    },
+    {
+        "id": "2",
+        "nom": "Xavi",
+        "cognoms": "Quesada Puertas"
+    },
+    {
+        "id": "3",
+        "nom": "Federico",
+        "cognoms": "Lopez"
+    }
+]
